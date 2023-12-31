@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/Map_CrossProduct.umap"
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/Map_CrossProduct.umap",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/BP_CrossProduct.uasset",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/ControlRig_CrossProduct.uasset",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/CrossProduct.uasset",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/EUW_CrossProduct.uasset",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/BP_CalculateNormals.uasset",
+				"/Users/elliottlambert/Documents/Unreal Projects/UEMath/Maths/Content/CrossProduct/Axis.uasset"
 			]
 		}
 	]
